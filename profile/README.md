@@ -1,4 +1,4 @@
-## Hi there 👋
+## Application packaging made easy 👋
 
 <!--
 
