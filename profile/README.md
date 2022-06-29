@@ -1,4 +1,4 @@
-## Application packaging made easy 👋
+## GNU/Linux Application packaging made easy 👋
 
 <!--
 
