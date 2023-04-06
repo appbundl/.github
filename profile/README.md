@@ -1,5 +1,9 @@
 ## GNU/Linux Application packaging and distribution made easy 👋
 
+UPack aims to create solution for packaging applications for GNU/Linux systems by combining ideas from Snap, Flatpack and AppImage.
+
+The idea is to have a standarized runtime (let's say Ubuntu 22.04) and build over it an AppImage like package. The base will be made available in Snap, Flatpack and other formats. With it installed you will be able to run any application that has been made for it without worring about compatibility issues.
+
 <!--
 
 **Here are some ideas to get you started:**
